@@ -1,4 +1,29 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+author_profile: false
+
+header:
+  overlay_image: assets/images/tatravelo.jpg
+
+excerpt: "Wokół Tatr na Rowerze"
+
+intro:
+  - excerpt: "Tatry to najwyższe Polskie góry. Niezwykle zatłoczone w sezonie, dają się w podziwiać w ciszy i spokoju z roweru."
+
+routes:
+  - image_path: assets/images/mapa.png
+    title: "Dla rodzin"
+    excerpt: "Trasy do 3 dni z rodzinami."
+  - image_path: assets/images/mapa.png
+    title: "Rekraacyjnie"
+    excerpt: "Trasy 3-7 dni wokol Tatr."
+  - image_path: assets/images/mapa.png
+    title: "Dla wyjadaczy"
+    excerpt: 'Najbardziej wymagajace trasy przez najwyzesze przelecze.'
+
+
 ---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row id="routes" %}
+
