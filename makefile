@@ -16,3 +16,5 @@ npm:
 	npm install
 css: npm
 	npm run build:css
+js: npm
+	npm run build:js
