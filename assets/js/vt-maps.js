@@ -15,6 +15,16 @@ const DAY_TO_COLOR = {
     5: 'orange'
 };
 
+const NAME_TO_LINK = {
+    '1/5: Zakopane - Sromowce': 'routes#day1',
+    '2/5: Sromowce - Tatranská Lomnica': 'routes#day2',
+    '3/5: Tatranská Lomnica - Štrbské Pleso': 'routes#day3',
+    '4/5: Štrbské Pleso - Ružomberok': 'routes#day4',
+    '5/5: Ružomberok - Zaskale Nowy Targ': 'routes#day5'
+};
+
+const URL_PREFIX = 'vt';
+
 
 // MAIN SCRIPT
 
@@ -171,7 +181,7 @@ function select_interaction(overlay, content, closer) {
         // at the time or not
         if (selected_f) {
             var f_name = selected_f.get('name');
-            content.innerHTML = f_name;
+            content.innerHTML = route_desc_link(f_name);
             overlay.setPosition(evt.mapBrowserEvent.coordinate);
         }
         // a feature is deselected but any other is not selected
@@ -183,5 +193,9 @@ function select_interaction(overlay, content, closer) {
     extend_closer_listener(select, closer);
     return select;
 }
+
+function route_desc_link(name) {
+    return '<a href=' + NAME_TO_LINK[name] + '>' + name + '</a>';
+};
 
 // * listeners

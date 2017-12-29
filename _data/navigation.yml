@@ -1,10 +1,28 @@
 main:
+  - title: "O Projekcie"
+    url: /project
   - title: "Trasy"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Noclegi"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /routes
   - title: "Atrakcje"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /attractions
   - title: "O Nas"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #   url: /year-archive/
+    url: /about
+
+routes:
+  - title: "TatraVelo El Clásico"
+    children:
+      - title: "1/5: Zakopane - Bešeňová"
+        url: "/routes#day1"
+      - title: "2/5: Bešeňová - Štrbské Pleso"
+        url: "/routes#day2"
+      - title: "3/5: Štrbské Pleso - Tatranská Lomnica"
+        url: "/routes#day3"
+      - title: "4/5: Tatranská Lomnica - Sromowce Niżne"
+        url: "/routes#day4"
+      - title: "5/5: Sromowce Niżne - Zakopane"
+        url: "/routes#day5"
+
+
+
+
+
