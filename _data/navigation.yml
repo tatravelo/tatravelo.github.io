@@ -15,8 +15,10 @@ routes:
     children:
       - title: "1/5: Zakopane - Bešeňová"
         url: "/routes#day1"
-      - title: "2/5: Bešeňová - Štrbské Pleso"
+      - title: "Day 2: The sunny side"
         url: "/routes#day2"
+      - title: "Day 2: The sunny side"
+        url: "/routes#day2-2"
       - title: "3/5: Štrbské Pleso - Tatranská Lomnica"
         url: "/routes#day3"
       - title: "4/5: Tatranská Lomnica - Sromowce Niżne"

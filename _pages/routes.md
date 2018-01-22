@@ -34,19 +34,54 @@ Highlights:
 <iframe src="https://www.komoot.com/tour/19542359/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
 
 <a name="day2"/>
-## TatraVelo El Clásico 2/5: Bešeňová - Štrbské Pleso
+## Day 2: The sunny side
 
-estatísticas calculadas a partir de dados importados
+#### From Bešeňová to Štrbské Pleso
 
-segunda-feira, 11 de dezembro de 2017 22:14 cet
+---
 
-* distância: 89,6 km
-* duração: 6 horas, 5 minutos e 18 segundos
-* velocidade média: 14,7 km/h
-* elevação mínima: 510 m
-* elevação máxima: 1124 m
-* total da subida: 1100 m
-* total da descida: 1415 m
+Liptov - the sunny side of the Tatras. Well, total ascent for today might not seem that innocent - 1190 m up, but look at the elevation profile. Believe us, the views will make you forget you’re even cycling up. Fields, secondary roads, lake views… magnificent views for all the mountains around. It’s also time to learn some history of Slovakia today. If you’re a history fan, you’ll have more to discover: an ancient fortress, open air museum at Pribylina, Liptovský Mikuláš historical centre and impressive Okolične church.
+
+At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Lipt. Jan, Podtureň and Lipt. Hradok. The last part (a half, actually!) of the route is a 40 km, 800 m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level.
+
+Highlights:
+
+* Liptov Lake - it will be the dominant of all the views in the first stage of the route.
+
+* Liptovský Mikuláš - a charming town, a place to learn what Slovakia, Czechia and Hungary have in common… or don’t have. Local Robin Hood stories and, of course, … Santa Claus!
+
+* Liptovský Ján - and what about… getting off your bike to rest your legs in a free, outdoor thermal pool, just by the road? They’ve been doing it for ages here!
+
+* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret its not longer!
+
+* Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
+
+<iframe src="https://www.komoot.com/tour/26422880/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+<a name="day2-2"/>
+
+## Day 2: The sunny side
+
+<iframe src="https://www.komoot.com/tour/26423084/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
+
+Liptov - the sunny side of the Tatras. Well, total ascent for today might not seem that innocent - 1190 m up, but look at the elevation profile. Believe us, the views will make you forget you’re even cycling up. Fields, secondary roads, lake views… magnificent views for all the mountains around. It’s also time to learn some history of Slovakia today. If you’re a history fan, you’ll have more to discover: an ancient fortress, open air museum at Pribylina, Liptovský Mikuláš historical centre and impressive Okolične church.
+
+At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Lipt. Jan, Podtureň and Lipt. Hradok. The last part (a half, actually!) of the route is a 40 km, 800 m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level.
+
+Highlights:
+
+* Liptov Lake - it will be the dominant of all the views in the first stage of the route.
+
+* Liptovský Mikuláš - a charming town, a place to learn what Slovakia, Czechia and Hungary have in common… or don’t have. Local Robin Hood stories and, of course, … Santa Claus!
+
+* Liptovský Ján - and what about… getting off your bike to rest your legs in a free, outdoor thermal pool, just by the road? They’ve been doing it for ages here!
+
+* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret its not longer!
+
+* Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
+
 
 <a name="day3"/>
 ##  TatraVelo El Clásico 3/5: Štrbské Pleso - Tatranská Lomnica
