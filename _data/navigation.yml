@@ -5,6 +5,8 @@ main:
     url: /routes
   - title: "Atrakcje"
     url: /attractions
+  - title: "Kontakt"
+    url: /contact
   - title: "O Nas"
     url: /about
 
