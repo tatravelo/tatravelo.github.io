@@ -83,20 +83,43 @@ Highlights:
 * Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
 
 
-<a name="day3"/>
-##  TatraVelo El Clásico 3/5: Štrbské Pleso - Tatranská Lomnica
+<a name="day3-1"/>
+## Day 3: The land of 7 cultures (v1)
 
-estatísticas calculadas a partir de dados importados
+It’s going to be an enjoyable day in Spiš region. Great downhills and gentle uphills (only 590m up today!). Until 1945 it was a true melting pot: Saxon-Germans, Slovaks, Hungarian, Gypsies, Jews and Poles; a mix of cultures, languages, religions, mentalities. Nowadays, sadly, it's not what it used to be however the rich heritage remained - Poprad and Kežmarok are undoubtedly the most interesting towns of the whole route. We will go far from Tatras, taste amazing and diverse views, but will end up by their feet again.
 
-segunda-feira, 11 de dezembro de 2017 22:14 cet
+<iframe src="https://www.komoot.com/tour/26430901/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
 
-* distância: 89,6 km
-* duração: 6 horas, 5 minutos e 18 segundos
-* velocidade média: 14,7 km/h
-* elevação mínima: 510 m
-* elevação máxima: 1124 m
-* total da subida: 1100 m
-* total da descida: 1415 m
+Yesterday it was an uphill day, so today you get your reward - a long downhill and… some uphill at the end of the day :). Again lots of views, first following Freedom Road, above the forests limit, then a spectacular downhill till you reach River Poprad banks that lead you to Poprad city - “five towns in one”. Out of Poprad some great views from Low Tatras foothills and another amazing scenic cycleway until arriving at Kežmarok. The day ends with a green ascent up to Tatranská Lomnica and we're back right by the Tatras, again.
+
+Highlights:
+
+* Freedom Road (Cesta Slobody) - cycling over the forest zone limit. Prime views and a great downhill afterwards.
+
+* Poprad River Cycleway - lazy cycling with great views around.
+
+* Poprad and Kežmarok towns - undoubtedly the most interesting historic towns on the whole route. Take your time to get to know their charm and monuments.
+
+* Poprad To Kežmarok part - prime cycling through the fields, hills and old villages with the mountains looming on the horizon.
+
+<a name="day3-2"/>
+## Day 3: The land of 7 cultures (v2)
+
+It’s going to be an enjoyable day in Spiš region. Great downhills and gentle uphills (only 590m up today!). Until 1945 it was a true melting pot: Saxon-Germans, Slovaks, Hungarian, Gypsies, Jews and Poles; a mix of cultures, languages, religions, mentalities. Nowadays, sadly, it's not what it used to be however the rich heritage remained - Poprad and Kežmarok are undoubtedly the most interesting towns of the whole route. We will go far from Tatras, taste amazing and diverse views, but will end up by their feet again.
+
+<iframe src="https://www.komoot.com/tour/26430901/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+Highlights:
+
+* Freedom Road (Cesta Slobody) - cycling over the forest zone limit. Prime views and a great downhill afterwards.
+
+* Poprad River Cycleway - lazy cycling with great views around.
+
+* Poprad and Kežmarok towns - undoubtedly the most interesting historic towns on the whole route. Take your time to get to know their charm and monuments.
+
+* Poprad To Kežmarok part - prime cycling through the fields, hills and old villages with the mountains looming on the horizon.
+
+Yesterday it was an uphill day, so today you get your reward - a long downhill and… some uphill at the end of the day :). Again lots of views, first following Freedom Road, above the forests limit, then a spectacular downhill till you reach River Poprad banks that lead you to Poprad city - “five towns in one”. Out of Poprad some great views from Low Tatras foothills and another amazing scenic cycleway until arriving at Kežmarok. The day ends with a green ascent up to Tatranská Lomnica and we're back right by the Tatras, again.
 
 
 <a name="day4"/>
