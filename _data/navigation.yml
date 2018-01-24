@@ -23,7 +23,7 @@ routes:
         url: "/routes#day3-1"
       - title: "Day 3: The land of 7 cultures (v2)"
         url: "/routes#day3-2"
-      - title: "4/5: Tatranská Lomnica - Sromowce Niżne"
+      - title: "4/5: Through the depths of the valleys"
         url: "/routes#day4"
       - title: "5/5: Sromowce Niżne - Zakopane"
         url: "/routes#day5"

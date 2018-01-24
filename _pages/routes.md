@@ -123,21 +123,23 @@ Yesterday it was an uphill day, so today you get your reward - a long downhill a
 
 
 <a name="day4"/>
-## TatraVelo El Clásico 4/5: Tatranská Lomnica - Sromowce Niżne
+## 4/5: Through the depths of the valleys
 
+Today you will see different kinds of mountains thatthere are in Tatra regions. We will stay in Spiš (partly Slovakia, partly Poland today) but the landscapes will change dramatically during the day. It’s mostly you, the road and the nature today. Some interesting wooden villages - Ždiar and Osturňa (a Rusinian enclave) with and an... Orthodox church! Further, already in Polish Spisz, an intriguing story of Incas at Niedzica Castle and Lake (detour), the flying monk stories of Červený Klaštor Monastery and the jewel in the crown - Dunajec River Gorge.
 
-estatísticas calculadas a partir de dados importados
+<iframe src="https://www.komoot.com/tour/21996304/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
 
-segunda-feira, 11 de dezembro de 2017 22:14 cet
+---
 
-* distância: 89,6 km
-* duração: 6 horas, 5 minutos e 18 segundos
-* velocidade média: 14,7 km/h
-* elevação mínima: 510 m
-* elevação máxima: 1124 m
-* total da subida: 1100 m
-* total da descida: 1415 m
+Highlights:
 
+* Freedom Road (Cesta Slobody) - great views from above the forests.
+
+* Osturňa Valley - a perfect downhill, followed by a lost in time Rusinian village. Check the local bar to try some Czechoslovakia times.
+* Sromowce Lake (and Niedzica Castle detour) - Inca secrets by a beautiful lake in Pieniny.
+* Dunajec River Gorge - the best river section on TatraVelo route plus an uphill and a nice scenic downhill to end the day the best we can.
+
+Be the Freedom Road (Cesta Slobody) we arrive at Kotlina, where a long 350m ascent begins, through a deep and narrow valley. It takes us up to 1150m, with a unique view of the Belanské Tatry. Then, one of the best descents: down a thick forest, along a stream takes us to “end-of-the-world” village of Osturňa and to Poland. Niedzica Lake - you can pick the Castle detour here. We continue to Sromowce.  It could end here (55km), but  Dunajec River Gorge Lesnica and Haligovce area ahead. If you’re tired, take a break, leave your staff in Sromowce, but don’t miss Dunajec Gorge… it’s one of the jewels in the crown.
 
 <a name="day5"/>
 ## TatraVelo El Clásico 5/5: Sromowce Niżne - Zakopane
