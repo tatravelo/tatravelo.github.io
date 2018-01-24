@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /routes
+permalink: /route
 sidebar:
-  nav: "routes"
+  nav: "stages"
 ---
 
 {% include map %}

@@ -1,8 +1,8 @@
 main:
   - title: "O Projekcie"
     url: /project
-  - title: "Trasy"
-    url: /routes
+  - title: "Trasa"
+    url: /route
   - title: "Atrakcje"
     url: /attractions
   - title: "Kontakt"
@@ -10,23 +10,23 @@ main:
   - title: "O Nas"
     url: /about
 
-routes:
-  - title: "TatraVelo El Clásico"
+stages:
+  - title: "Route stages"
     children:
       - title: "1/5: Zakopane - Bešeňová"
-        url: "/routes#day1"
+        url: "/route#day1"
       - title: "Day 2: The sunny side"
-        url: "/routes#day2"
+        url: "/route#day2"
       - title: "Day 2: The sunny side"
-        url: "/routes#day2-2"
+        url: "/route#day2-2"
       - title: "Day 3: The land of 7 cultures (v1)"
-        url: "/routes#day3-1"
+        url: "/route#day3-1"
       - title: "Day 3: The land of 7 cultures (v2)"
-        url: "/routes#day3-2"
+        url: "/route#day3-2"
       - title: "4/5: Through the depths of the valleys"
-        url: "/routes#day4"
+        url: "/route#day4"
       - title: "5/5: Sromowce Niżne - Zakopane"
-        url: "/routes#day5"
+        url: "/route#day5"
 
 
 
