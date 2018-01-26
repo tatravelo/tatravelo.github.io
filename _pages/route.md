@@ -142,7 +142,26 @@ Highlights:
 Be the Freedom Road (Cesta Slobody) we arrive at Kotlina, where a long 350m ascent begins, through a deep and narrow valley. It takes us up to 1150m, with a unique view of the Belanské Tatry. Then, one of the best descents: down a thick forest, along a stream takes us to “end-of-the-world” village of Osturňa and to Poland. Niedzica Lake - you can pick the Castle detour here. We continue to Sromowce.  It could end here (55km), but  Dunajec River Gorge Lesnica and Haligovce area ahead. If you’re tired, take a break, leave your staff in Sromowce, but don’t miss Dunajec Gorge… it’s one of the jewels in the crown.
 
 <a name="day5"/>
-## TatraVelo El Clásico 5/5: Sromowce Niżne - Zakopane
+## Day 5/5: The Last Landscape of Tatras
+
+All things come to an end… but before that, we make sure you sweat it well :-). We will keep away from the main roads to see there is a lot to discover - a village at the top of a mountain (Dursztyn), UNESCO wooden church of Dębno, a surprisingly charming cycling by Velo Dunajec River section… we’ll jump in the middle of THE city, as the locals call Nowy Targ, but afterwards, through a purgatory of Ludźmierz Shrine and a looong ascent we will clean our minds well. Wide panoramas today, to make you forget your fatigued muscles.
+
+<iframe src="https://www.komoot.com/tour/25531070/embed?profile=1&gallery=1"
+width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
+
+Up the valley we arrive in Dursztyn, where we enjoy the views and the new cycleway. Scenic local roads take us back to Dunajec River and Czorsztyńskie Lake. Velo Dunajec cycleway brings us, following up the river, to Nowy Targ, the capital city of Podhale with some tasty ice cream. After refreshing at Ludźmierz Shrine well, we start the last, 22 km long, ever facing Tatra, rugged ascent. It will be a great challenge at some sections, let the views ease your pain. Remember, once you make it up to Gubałówka, you’ve done it!
+
+Highlights:
+
+* Tatra Cycleway Dursztyn Section - a dedicated cycleway in the middle of a rural scenic landscapes.
+* Velo Dunajec Section - technical, green, through some authentic Podhale villages.
+* Nowy Targ local ice cream - we cycle, so we need sugar. A perfect excuse for one more scoop.
+* Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
+
+
+
 
 estatísticas calculadas a partir de dados importados
 

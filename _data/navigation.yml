@@ -11,7 +11,7 @@ main:
     url: /about
 
 stages:
-  - title: "Route stages"
+  - title: "Stages"
     children:
       - title: "1/5: Zakopane - Bešeňová"
         url: "/route#day1"
@@ -25,7 +25,7 @@ stages:
         url: "/route#day3-2"
       - title: "4/5: Through the depths of the valleys"
         url: "/route#day4"
-      - title: "5/5: Sromowce Niżne - Zakopane"
+      - title: "Day 5/5: The Last Landscape of Tatras"
         url: "/route#day5"
 
 
