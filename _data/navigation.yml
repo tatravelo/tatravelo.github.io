@@ -15,10 +15,10 @@ stages:
     children:
       - title: "1/5: Zakopane - Bešeňová"
         url: "/route#day1"
-      - title: "Day 2: The sunny side"
-        url: "/route#day2"
-      - title: "Day 2: The sunny side"
-        url: "/route#day2-2"
+      - title: "Day 2/5: The sunny side (planned)"
+        url: "/route#day2-planned"
+      - title: "Day 2/5: The sunny side (done)"
+        url: "/route#day2-done"
       - title: "Day 3: The land of 7 cultures (v1)"
         url: "/route#day3-1"
       - title: "Day 3: The land of 7 cultures (v2)"
@@ -27,8 +27,3 @@ stages:
         url: "/route#day4"
       - title: "Day 5/5: The Last Landscape of Tatras"
         url: "/route#day5"
-
-
-
-
-

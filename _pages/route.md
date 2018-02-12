@@ -33,55 +33,44 @@ Highlights:
 
 <iframe src="https://www.komoot.com/tour/19542359/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
 
-<a name="day2"/>
-## Day 2: The sunny side
-
-#### From Bešeňová to Štrbské Pleso
-
----
+<a name="day2-planned"/>
+## Day 2: The sunny side (planned)
 
 Liptov - the sunny side of the Tatras. Well, total ascent for today might not seem that innocent - 1190 m up, but look at the elevation profile. Believe us, the views will make you forget you’re even cycling up. Fields, secondary roads, lake views… magnificent views for all the mountains around. It’s also time to learn some history of Slovakia today. If you’re a history fan, you’ll have more to discover: an ancient fortress, open air museum at Pribylina, Liptovský Mikuláš historical centre and impressive Okolične church.
 
-At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Lipt. Jan, Podtureň and Lipt. Hradok. The last part (a half, actually!) of the route is a 40 km, 800 m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level.
+<iframe src="https://www.komoot.com/tour/21937539/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
+
+At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Liptovský Jan, Podtureň and Liptovský Hradok. The last part (a half, actually!) of the route is a 40 km, 800m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level is a great experience.
 
 Highlights:
 
 * Liptov Lake - it will be the dominant of all the views in the first stage of the route.
-
 * Liptovský Mikuláš - a charming town, a place to learn what Slovakia, Czechia and Hungary have in common… or don’t have. Local Robin Hood stories and, of course, … Santa Claus!
-
 * Liptovský Ján - and what about… getting off your bike to rest your legs in a free, outdoor thermal pool, just by the road? They’ve been doing it for ages here!
-
-* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret its not longer!
-
+* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret it’s not longer!
 * Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
 
-<iframe src="https://www.komoot.com/tour/26422880/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+<a name="day2-done"/>
 
-<a name="day2-2"/>
-
-## Day 2: The sunny side
-
-<iframe src="https://www.komoot.com/tour/26423084/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
-
----
+## Day 2: The sunny side (done)
 
 Liptov - the sunny side of the Tatras. Well, total ascent for today might not seem that innocent - 1190 m up, but look at the elevation profile. Believe us, the views will make you forget you’re even cycling up. Fields, secondary roads, lake views… magnificent views for all the mountains around. It’s also time to learn some history of Slovakia today. If you’re a history fan, you’ll have more to discover: an ancient fortress, open air museum at Pribylina, Liptovský Mikuláš historical centre and impressive Okolične church.
 
-At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Lipt. Jan, Podtureň and Lipt. Hradok. The last part (a half, actually!) of the route is a 40 km, 800 m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level.
+<iframe src="https://www.komoot.com/tour/26876877/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
+
+At the beginning we pass by the Liptov Lake - it’s a different place in the morning. Then some scenic local roads cycling through the fields before arriving at Mikuláš. Afterwards, you'll have to focus while riding some unpaved roads along Váh River Valley, through Liptovský Jan, Podtureň and Liptovský Hradok. The last part (a half, actually!) of the route is a 40 km, 800m ascent. But don’t think it’s boring. Ever changing 360º panoramas before immersing in thick forest and ending up above it, by Štrbské Lake, 1350 m above sea level is a great experience.
 
 Highlights:
 
 * Liptov Lake - it will be the dominant of all the views in the first stage of the route.
-
 * Liptovský Mikuláš - a charming town, a place to learn what Slovakia, Czechia and Hungary have in common… or don’t have. Local Robin Hood stories and, of course, … Santa Claus!
-
 * Liptovský Ján - and what about… getting off your bike to rest your legs in a free, outdoor thermal pool, just by the road? They’ve been doing it for ages here!
-
-* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret its not longer!
-
+* Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret it’s not longer!
 * Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
-
 
 <a name="day3-1"/>
 ## Day 3: The land of 7 cultures (v1)
@@ -89,6 +78,8 @@ Highlights:
 It’s going to be an enjoyable day in Spiš region. Great downhills and gentle uphills (only 590m up today!). Until 1945 it was a true melting pot: Saxon-Germans, Slovaks, Hungarian, Gypsies, Jews and Poles; a mix of cultures, languages, religions, mentalities. Nowadays, sadly, it's not what it used to be however the rich heritage remained - Poprad and Kežmarok are undoubtedly the most interesting towns of the whole route. We will go far from Tatras, taste amazing and diverse views, but will end up by their feet again.
 
 <iframe src="https://www.komoot.com/tour/26430901/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
 
 Yesterday it was an uphill day, so today you get your reward - a long downhill and… some uphill at the end of the day :). Again lots of views, first following Freedom Road, above the forests limit, then a spectacular downhill till you reach River Poprad banks that lead you to Poprad city - “five towns in one”. Out of Poprad some great views from Low Tatras foothills and another amazing scenic cycleway until arriving at Kežmarok. The day ends with a green ascent up to Tatranská Lomnica and we're back right by the Tatras, again.
 
@@ -108,6 +99,8 @@ Highlights:
 It’s going to be an enjoyable day in Spiš region. Great downhills and gentle uphills (only 590m up today!). Until 1945 it was a true melting pot: Saxon-Germans, Slovaks, Hungarian, Gypsies, Jews and Poles; a mix of cultures, languages, religions, mentalities. Nowadays, sadly, it's not what it used to be however the rich heritage remained - Poprad and Kežmarok are undoubtedly the most interesting towns of the whole route. We will go far from Tatras, taste amazing and diverse views, but will end up by their feet again.
 
 <iframe src="https://www.komoot.com/tour/26430901/embed?profile=1&gallery=1" width="764" height="580" frameborder="0" scrolling="no"></iframe>
+
+---
 
 Highlights:
 
@@ -174,5 +167,3 @@ segunda-feira, 11 de dezembro de 2017 22:14 cet
 * elevação máxima: 1124 m
 * total da subida: 1100 m
 * total da descida: 1415 m
-
-
