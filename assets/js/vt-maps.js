@@ -160,7 +160,7 @@ function selected_route_style() {
 function interactions(overlay, content, closer) {
     select = select_interaction(overlay, content, closer);
     hover = hover_interaction();
-    return ol.interaction.defaults().extend([select, hover]);
+    return ol.interaction.defaults({mouseWheelZoom: false}).extend([select, hover]);
 }
 
 function hover_interaction() {
