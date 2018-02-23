@@ -10,9 +10,14 @@ main:
   - title: "O Nas"
     url: /about
 
-stages:
+
+map_and_stages:
+  - title: "&#x21e7 Map"
+    url: "/route#map"
   - title: "Stages"
     children:
+      - title: "&#x21e7 Map"
+        url: "/route#map"
       - title: "1/5: Zakopane - Bešeňová"
         url: "/route#day1"
       - title: "Day 2/5: The sunny side (planned)"

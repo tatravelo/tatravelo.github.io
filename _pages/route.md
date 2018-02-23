@@ -2,8 +2,10 @@
 layout: single
 permalink: /route
 sidebar:
-  nav: "stages"
+  nav: "map_and_stages"
 ---
+
+<a name="map">
 
 {% include map %}
 
@@ -134,6 +136,8 @@ Highlights:
 
 Be the Freedom Road (Cesta Slobody) we arrive at Kotlina, where a long 350m ascent begins, through a deep and narrow valley. It takes us up to 1150m, with a unique view of the Belanské Tatry. Then, one of the best descents: down a thick forest, along a stream takes us to “end-of-the-world” village of Osturňa and to Poland. Niedzica Lake - you can pick the Castle detour here. We continue to Sromowce.  It could end here (55km), but  Dunajec River Gorge Lesnica and Haligovce area ahead. If you’re tired, take a break, leave your staff in Sromowce, but don’t miss Dunajec Gorge… it’s one of the jewels in the crown.
 
+[Go to top](#map){: .btn .btn--primary .btn--small .align-right }
+
 <a name="day5"/>
 ## Day 5/5: The Last Landscape of Tatras
 
@@ -153,17 +157,4 @@ Highlights:
 * Nowy Targ local ice cream - we cycle, so we need sugar. A perfect excuse for one more scoop.
 * Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
 
-
-
-
-estatísticas calculadas a partir de dados importados
-
-segunda-feira, 11 de dezembro de 2017 22:14 cet
-
-* distância: 89,6 km
-* duração: 6 horas, 5 minutos e 18 segundos
-* velocidade média: 14,7 km/h
-* elevação mínima: 510 m
-* elevação máxima: 1124 m
-* total da subida: 1100 m
-* total da descida: 1415 m
+[Go to top](#map){: .btn .align-right}
