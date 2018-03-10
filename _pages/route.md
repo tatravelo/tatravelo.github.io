@@ -25,7 +25,7 @@ Highlights:
 * Kvačanská Valley + the Mills - narrow, green valley, and a hidden gem of Oblazy Mills (detour). Technical cycling section.
 * Liptov Lake - whether you start or finish here, it’s a perfect place to stop and think it all over.
 
-[Go to top](#){: .btn .align-right}
+[Go to top](#){: .btn .btn--primary	.align-right}
 
 
 ## Day 2/5: The Sunny Side
@@ -46,7 +46,7 @@ Highlights:
 * Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret it’s not longer!
 * Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
 
-[Go to top](#){: .btn .align-right}
+[Go to top](#){: .btn .btn--primary	.align-right}
 
 ## Day 3/5: The Land of 7 Cultures
 
@@ -65,7 +65,8 @@ Highlights:
 * Poprad and Kežmarok towns - undoubtedly the most interesting historic towns on the whole route. Take your time to get to know their charm and monuments.
 * Poprad To Kežmarok part - prime cycling through the fields, hills and old villages with the mountains looming on the horizon.
 
-[Go to top](#){: .btn .align-right}
+
+[Go to top](#){: .btn .btn--primary	.align-right}
 
 ## Day 4/5: Through the Depths of the Valleys
 
@@ -85,7 +86,7 @@ Highlights:
 * Sromowce Lake (and Niedzica Castle detour) - Inca secrets by a beautiful lake in Pieniny.
 * Dunajec River Gorge - the best river section on TatraVelo route plus an uphill and a nice scenic downhill to end the day the best we can.
 
-[Go to top](#){: .btn .align-right }
+[Go to top](#){: .btn .btn--primary	.align-right}
 
 ## Day 5/5: Back and up to Zakopane
 
@@ -105,4 +106,4 @@ Highlights:
 * Nowy Targ local ice cream - we cycle, so we need sugar. A perfect excuse for one more scoop.
 * Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
 
-[Go to top](#){: .btn .align-right}
+[Go to top](#){: .btn .btn--primary	.align-right}

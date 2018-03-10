@@ -259,12 +259,9 @@ defaults:
       comments: # true
       share: true
       related: true
-<<<<<<< HEAD
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: splash
-=======
->>>>>>> f52d91a6aa7a71e19d229b82d8d926fb294d8964
