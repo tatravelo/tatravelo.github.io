@@ -6,24 +6,39 @@
 
 const TATRAS_COORDINATES = [19.95, 49.25];
 const KML_SOURCE = 'assets/kml/routes.kml';
-// TODO: read the colors from features
-const DAY_TO_COLOR = {
-    1: 'yellow',
-    2: 'green',
-    3: 'red',
-    4: 'purple',
-    5: 'orange'
-};
+const DAY_TO_COLOR = new Map([
+    ['1', 'yellow'],
+    ['2', 'green'],
+    ['3', 'red'],
+    ['4', 'purple'],
+    ['5', 'orange'],
+    // C is the first letter of "Cycling Route..."
+    ['C', 'azure']
+]);
 
-const NAME_TO_LINK = {
-    '1/5: Zakopane - Sromowce': 'routes#day1',
-    '2/5: Sromowce - Tatranská Lomnica': 'routes#day2',
-    '3/5: Tatranská Lomnica - Štrbské Pleso': 'routes#day3',
-    '4/5: Štrbské Pleso - Ružomberok': 'routes#day4',
-    '5/5: Ružomberok - Zaskale Nowy Targ': 'routes#day5'
-};
+var name_to_link = new Map([
+    ['1/5: Zakopane - Bešeňová',
+     "/route#day-15-tatravelo-goulash"],
+    ['2/5: Bešeňová - Štrbské Pleso',
+     "/route#day-25-the-sunny-side"],
+    ['3/5: Štrbské Pleso - Tatranská Lomnica',
+     "/route#day-35-the-land-of-7-cultures"],
+    ['4/5: Tatranská Lomnica - Sromowce Niżne',
+     "/route#day-45-through-the-depths-of-the-valleys"],
+    ['5/5: Sromowce Niżne - Zakopane',
+     "/route#day-55-back-and-up-to-zakopane"],
+    ['Cycling Route Around The Tatras',
+     "/cycling-route-around-the-tatras"]
+]);
 
-const URL_PREFIX = 'vt';
+const URL_PREFIX = '/vt';
+const NAME_TO_LINK = new Map(Array.from(name_to_link).map(
+    // ([key, url]) => [key, URL_PREFIX + url]
+    function(val) {
+        return [val[0], URL_PREFIX + val[1]];
+    }
+));
+
 
 
 // MAIN SCRIPT
@@ -134,7 +149,7 @@ function route_style(color) {
 
 function default_route_style(feature, resolution) {
     var day = feature.get('name').charAt(0);
-    return route_style(DAY_TO_COLOR[day]);
+    return route_style(DAY_TO_COLOR.get(day));
 }
 
 function selected_route_style() {
@@ -155,7 +170,7 @@ function selected_route_style() {
     ];
 }
 
-// * interactions
+// * INTERACTIONS
 
 function interactions(overlay, content, closer) {
     select = select_interaction(overlay, content, closer);
@@ -195,7 +210,7 @@ function select_interaction(overlay, content, closer) {
 }
 
 function route_desc_link(name) {
-    return '<a href=' + NAME_TO_LINK[name] + '>' + name + '</a>';
+    return '<a href=' + NAME_TO_LINK.get(name) + '>' + name + '</a>';
 };
 
-// * listeners
+// * UTILITIES

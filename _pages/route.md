@@ -5,7 +5,6 @@ sidebar:
   nav: "map_and_stages"
 ---
 
-
 {% include map %}<a name="map">
 
 ## Day 1/5: TatraVelo Goulash
@@ -105,5 +104,12 @@ Highlights:
 * Velo Dunajec Section - technical, green, through some authentic Podhale villages.
 * Nowy Targ local ice cream - we cycle, so we need sugar. A perfect excuse for one more scoop.
 * Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
+
+[Go to top](#){: .btn .btn--primary	.align-right}
+
+
+## Cycling Route Around The Tatras
+
+TODO
 
 [Go to top](#){: .btn .btn--primary	.align-right}
