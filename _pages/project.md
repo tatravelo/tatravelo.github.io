@@ -3,7 +3,7 @@ title: TatraVelo Project
 excerpt: "What do we provide and why bother?"
 permalink: /project
 header:
-  overlay_image: assets/images/splash-1600x587-1.jpg
+  overlay_image: assets/images/splash-about-1600x600.jpg
 ---
 
 ## What do we do?
