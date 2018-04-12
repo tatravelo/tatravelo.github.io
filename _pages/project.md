@@ -3,7 +3,7 @@ title: The Project
 excerpt: "What is TatraVelo and why bother?"
 permalink: /project
 header:
-  overlay_image: assets/images/splash-about-1600x600.jpg
+  overlay_image: assets/images/splash-project-1600x600.jpg
 ---
 
 {% include base_path %}
