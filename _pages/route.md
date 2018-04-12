@@ -106,10 +106,3 @@ Highlights:
 * Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
 
 [Go to top](#){: .btn .btn--primary	.align-right}
-
-
-## Cycling Route Around The Tatras
-
-TODO
-
-[Go to top](#){: .btn .btn--primary	.align-right}
