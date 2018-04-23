@@ -1,9 +1,9 @@
 ---
 title: "About us"
+excerpt: "Who we are?"
 permalink: /about
 header:
-  overlay_image: assets/images/splash-1600x701-dursztyn.jpg
-excerpt: "Who we are?"
+  overlay_image: assets/images/splash-about-1600x600.png
 ---
 
 ## Szymon
