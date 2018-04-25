@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The Project
 excerpt: "What is TatraVelo and why bother?"
 permalink: /project
