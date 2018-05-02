@@ -2,22 +2,30 @@
 title: Highlights
 permalink: /highlights
 layout: archive
+header:
+   overlay_image: assets/images/splash-highlights-1280x850.jpg
+excerpt: "Discover the pearls"
 ---
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
-{% for collection in site.collections %}
-  {% unless collection.output == false or collection.label == "posts" %}
-    {% capture label %}{{ collection.label }}{% endcapture %}
-    {% if label != written_label %}
-<h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
-      {% capture written_label %}{{ label }}{% endcapture %}
-    {% endif %}
-  {% endunless %}
-  {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label == "posts" %}
-      {% include archive-single.html %}
-    {% endunless %}
+We picked some [places][places] and [stories][stories] to inspire you to visit
+this unique region.
+
+## Places
+<div class="grid__wrapper">
+  {% for post in site.places %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
-{% endfor %}
+</div>
+
+
+## Stories
+<div class="grid__wrapper">
+  {% for post in site.stories %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+[places]: {{ base_path }}/highlights#places
+[stories]: {{ base_path }}/highlights#stories

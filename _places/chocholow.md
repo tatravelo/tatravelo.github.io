@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Chochołów
+header:
+  teaser: assets/images/chocholow-600x400.jpeg
 ---
 
 Called the pearl of Podhale, one of the 3 best preserved wooden villages on our TatraVelo El Clásico (with Osturňa and Vlkolinec /on an extra loop/ in Slovakia). 109 wooden houses are protected, most of them were built more than 100 years ago.

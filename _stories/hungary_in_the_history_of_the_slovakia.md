@@ -1,6 +1,8 @@
 ---
 title: Hungary in the history of Slovakia
 layout: single
+header:
+  teaser: assets/images/hungary-600x400.png
 ---
 
 Slovaks are a nation that had to wait a loooong time to have an independent country. Actually, their first independent country was created only in 1918. It makes it even more interesting, how a small nation could survive with its identity. As it happens in the World history, the big(ger) nations and countries are who those usually influence the history of the smaller ones. North of the Tatras, this is Poland, Germany, Russia. South of the Tatras - Austria, Hungary or Czechs. The brave Huns, the nightmare of Slovaks, conquered the territories of modern Slovakia as early as in the 11th century.

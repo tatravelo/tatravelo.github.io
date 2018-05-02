@@ -1,6 +1,9 @@
 ---
 title: Tatra Cycleway (Szlak Wokół Tatr) at Suchá Hora Station
 layout: single
+header:
+  teaser: assets/images/sucha_hora_station-600x338.jpeg
+
 ---
 
 “What is that terrible ruin?” you might ask. It used to be a train station on a railway that once connected Krakow with Vienna, within the Austro-Hungarian Empire.

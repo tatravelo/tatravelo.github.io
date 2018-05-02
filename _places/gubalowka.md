@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Gubałówka
+header:
+  teaser: assets/images/gubalowka-600x400.jpeg
 ---
 
 Great work! You’ve made it up here. We hope it’s sunny so you can enjoy the views. This is one of the best panoramas of the Tatras from the North.
