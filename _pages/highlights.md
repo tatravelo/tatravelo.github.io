@@ -13,17 +13,23 @@ We picked some [places][places] and [stories][stories] to inspire you to visit
 this unique region.
 
 ## Places
+
 <div class="grid__wrapper">
   {% for post in site.places %}
-    {% include archive-single.html type="grid" %}
+    {% if post.publish %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
 
 
 ## Stories
+
 <div class="grid__wrapper">
   {% for post in site.stories %}
-    {% include archive-single.html type="grid" %}
+    {% if post.publish %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
 
