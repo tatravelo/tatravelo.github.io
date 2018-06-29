@@ -2,17 +2,20 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ '/' | absolute_url }}">
+          <!-- {{ site.title }} -->
+          <img class="masthead__logo" src="{{ base_url }}/vt/assets/images/home-logo-765x200.png" />
+        </a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = site.url | append: site.baseurl %}
-            {% endif %}
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+          {% if link.url contains 'http' %}
+          {% assign domain = '' %}
+          {% else %}
+          {% assign domain = site.url | append: site.baseurl %}
+          {% endif %}
+          <li class="masthead__menu-item">
+            <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+          </li>
           {% endfor %}
         </ul>
         {% if site.search == true %}
