@@ -31,7 +31,7 @@ var name_to_link = new Map([
      "/cycling-route-around-the-tatras"]
 ]);
 
-const URL_PREFIX = '/vt';
+const URL_PREFIX = '';
 const NAME_TO_LINK = new Map(Array.from(name_to_link).map(
     // ([key, url]) => [key, URL_PREFIX + url]
     function(val) {
