@@ -1,13 +1,13 @@
 main:
-  - title: "The Project"
+  - title: "THE PROJECT"
     url: /project
-  - title: "Route"
+  - title: "ROUTE"
     url: /route
-  - title: "Highlights"
+  - title: "HIGHLIGHTS"
     url: /highlights
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact
-  - title: "About Us"
+  - title: "ABOUT US"
     url: /about
 
 
