@@ -24,9 +24,6 @@ Highlights:
 * Kvačanská Valley + the Mills - narrow, green valley, and a hidden gem of Oblazy Mills (detour). Technical cycling section.
 * Liptov Lake - whether you start or finish here, it’s a perfect place to stop and think it all over.
 
-[Go to top](#){: .btn .btn--primary	.align-right}
-
-
 ## Day 2/5: The Sunny Side
 
 Liptov - the sunny side of the Tatras. Well, total ascent for today might not seem that innocent - 1190 m up, but look at the elevation profile. Believe us, the views will make you forget you’re even cycling up. Fields, secondary roads, lake views… magnificent views for all the mountains around. It’s also time to learn some history of Slovakia today. If you’re a history fan, you’ll have more to discover: an ancient fortress, open air museum at Pribylina, Liptovský Mikuláš historical centre and impressive Okolične church.
@@ -45,8 +42,6 @@ Highlights:
 * Views, views, views! Liptovská Kokava - a looong ascent… but once you reach the end, you regret it’s not longer!
 * Śtrbské Pleso - you’d better grab some warm clothes, you’re up in the mountains. And grab your camera, too. You’re at an Alpine lake. Take your time to contemplate.
 
-[Go to top](#){: .btn .btn--primary	.align-right}
-
 ## Day 3/5: The Land of 7 Cultures
 
 It’s going to be an enjoyable day in Spiš region. Great downhills and gentle uphills (only 590m up today!). Until 1945 it was a true melting pot: Saxon-Germans, Slovaks, Hungarian, Gypsies, Jews and Poles; a mix of cultures, languages, religions, mentalities. Nowadays, sadly, it's not what it used to be however the rich heritage remained - Poprad and Kežmarok are undoubtedly the most interesting towns of the whole route. We will go far from Tatras, taste amazing and diverse views, but will end up by their feet again.
@@ -63,9 +58,6 @@ Highlights:
 * Poprad River Cycleway - lazy cycling with great views around.
 * Poprad and Kežmarok towns - undoubtedly the most interesting historic towns on the whole route. Take your time to get to know their charm and monuments.
 * Poprad To Kežmarok part - prime cycling through the fields, hills and old villages with the mountains looming on the horizon.
-
-
-[Go to top](#){: .btn .btn--primary	.align-right}
 
 ## Day 4/5: Through the Depths of the Valleys
 
@@ -85,8 +77,6 @@ Highlights:
 * Sromowce Lake (and Niedzica Castle detour) - Inca secrets by a beautiful lake in Pieniny.
 * Dunajec River Gorge - the best river section on TatraVelo route plus an uphill and a nice scenic downhill to end the day the best we can.
 
-[Go to top](#){: .btn .btn--primary	.align-right}
-
 ## Day 5/5: Back and up to Zakopane
 
 All things come to an end… but before that, we make sure you sweat it well :-). We will keep away from the main roads to see there is a lot to discover - a village at the top of a mountain (Dursztyn), UNESCO wooden church of Dębno, a surprisingly charming cycling by Velo Dunajec River section… we’ll jump in the middle of THE city, as the locals call Nowy Targ, but afterwards, through a purgatory of Ludźmierz Shrine and a looong ascent we will clean our minds well. Wide panoramas today, to make you forget your fatigued muscles.
@@ -104,5 +94,3 @@ Highlights:
 * Velo Dunajec Section - technical, green, through some authentic Podhale villages.
 * Nowy Targ local ice cream - we cycle, so we need sugar. A perfect excuse for one more scoop.
 * Maruszyna - Gubałówka - the ultimate ascent and the reward: crazy downhill to Zakopane.
-
-[Go to top](#){: .btn .btn--primary	.align-right}
