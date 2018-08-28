@@ -4,7 +4,7 @@ title: "About us"
 excerpt: "Who we are?"
 permalink: /about
 header:
-  overlay_image: assets/images/splash-about-1600x600.png
+  overlay_image: assets/images/pages/about-1134x600.jpg
 ---
 
 ## Szymon

@@ -3,7 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact
 header:
-  overlay_image: assets/images/splash-contact-1600x600.png
+  overlay_image: assets/images/pages/contact-1134x600.jpg
 excerpt: "We prepare, you ride"
 ---
 

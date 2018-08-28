@@ -3,7 +3,7 @@ title: Highlights
 permalink: /highlights
 layout: archive
 header:
-   overlay_image: assets/images/splash-highlights-1280x850.jpg
+   overlay_image: assets/images/pages/highlights-1280x600.jpg
 excerpt: "Discover the pearls"
 ---
 
