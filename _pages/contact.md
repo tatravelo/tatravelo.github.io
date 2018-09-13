@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact
 header:
   overlay_image: assets/images/pages/contact-1134x600.jpg
+  show_title: true
 excerpt: "We prepare, you ride"
 ---
 

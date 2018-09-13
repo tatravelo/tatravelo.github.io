@@ -5,6 +5,7 @@ excerpt: "Who we are?"
 permalink: /about
 header:
   overlay_image: assets/images/pages/about-1134x600.jpg
+  show_title: true
 ---
 
 ## Szymon

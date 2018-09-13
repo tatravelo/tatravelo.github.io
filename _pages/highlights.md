@@ -4,6 +4,7 @@ permalink: /highlights
 layout: archive
 header:
    overlay_image: assets/images/pages/highlights-1280x600.jpg
+   show_title: true
 excerpt: "Discover the pearls"
 ---
 

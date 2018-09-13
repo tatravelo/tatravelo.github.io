@@ -66,6 +66,12 @@
   font-size: $type-size-4;
 }
 
+.page__logo-caption {
+  font-variant-caps: small-caps;
+  font-family: $caption-font-family;
+  font-size: $type-size-1;
+}
+
 .page__content {
   h2 {
     padding-bottom: 0.5em;
@@ -136,7 +142,7 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 6em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -145,10 +151,14 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
             animation-delay: 0.25s;
-    min-height: 600px;
 
     a {
       color: #fff;
+    }
+
+    img {
+        -webkit-filter: drop-shadow(1px 1px 4px rgba(#000, 0.5));
+        filter:         drop-shadow(1px 1px 4px rgba(#000, 0.5));
     }
 
     .wrapper {
@@ -163,6 +173,7 @@
     .page__title,
     .page__meta,
     .page__lead,
+    .page__logo-caption,
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
@@ -170,6 +181,12 @@
 
     .page__lead {
       max-width: $medium;
+    }
+
+    .page__logo-caption {
+      max-width: $medium;
+      text-align: center;
+      margin: auto
     }
 
     .page__title {

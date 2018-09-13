@@ -5,6 +5,7 @@ excerpt: "What is TatraVelo and why bother?"
 permalink: /project
 header:
   overlay_image: assets/images/pages/project-1280x600.jpg
+  show_title: true
 ---
 
 {% include base_path %}
