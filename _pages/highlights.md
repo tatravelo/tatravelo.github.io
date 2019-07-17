@@ -1,6 +1,7 @@
 ---
 title: Highlights
 permalink: /highlights
+description: "Highlights at cycling route around Tatras"
 layout: archive
 header:
    overlay_image: assets/images/pages/highlights-1280x600.jpg

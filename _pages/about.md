@@ -2,6 +2,7 @@
 layout: single
 title: "About us"
 excerpt: "Who we are?"
+description: "About creators of 5 days cycling route around Tatras"
 permalink: /about
 header:
   overlay_image: assets/images/pages/about-1134x600.jpg

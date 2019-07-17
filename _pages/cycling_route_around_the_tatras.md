@@ -1,5 +1,6 @@
 ---
 layout: single
+description: "Official cycling route around the Tatras"
 permalink: /cycling-route-around-the-tatras
 ---
 

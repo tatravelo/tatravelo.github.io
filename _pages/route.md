@@ -1,5 +1,7 @@
 ---
 layout: single
+title: "Route"
+description: "5 days cycling route around Tatras"
 permalink: /route
 sidebar:
   nav: "map_and_stages"

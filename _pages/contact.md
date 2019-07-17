@@ -2,6 +2,7 @@
 layout: single
 title: "Contact"
 permalink: /contact
+description: "TatraVelo contact"
 header:
   overlay_image: assets/images/pages/contact-1134x600.jpg
   show_title: true
